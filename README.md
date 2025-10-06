@@ -14,3 +14,7 @@ Here are some of my deployed projects with their live demo links:
 
 4. Swap Skill App
 🔗 Live Demo: https://swap-skill.vercel.app/
+
+5. Real Estate Web Application
+🔗 Live Demo: https://real-estate-
+black-kappa.vercel.app/
