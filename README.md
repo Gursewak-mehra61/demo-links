@@ -20,4 +20,4 @@ Here are some of my deployed projects with their live demo links:
 black-kappa.vercel.app/
 
 6. Landing Page
-🔗 Live Demo: https://landing- page1212.netlify.app
+🔗 Live Demo: https://landing-page1212.netlify.app
